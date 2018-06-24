@@ -6,7 +6,7 @@ Created on Tue Feb 13 22:44:19 2018
 @author: moreira
 
 Description: This script apply the Savitisky-Golay filter to a 3D trajectory, calculate the mean velocity, 
-the Mean Squared Deviation (MSD) and the Standard Error of the Mean (SEM). The output is given in micrometers/min. 
+the Mean Squared Displacement (MSD) and the Standard Error of the Mean (SEM). The output is given in micrometers/min. 
 
 """
 from matplotlib import pyplot
